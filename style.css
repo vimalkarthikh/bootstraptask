@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(196, 194, 194);
+}
+
+.fa{
+    color: rgb(64, 102, 207);
+}
+
+.box-part{
+    background-color: whitesmoke;
+    padding: 40px 5px;
+    margin: 25px 0px;
+}
+
+span{
+    font-size: 12px;
+}
+
+a{
+    border-bottom: 1px solid rgb(64, 102, 207);
+    color: rgb(64, 102, 207);
+}
+
+.box{
+    padding: 60px 0px;
+}
